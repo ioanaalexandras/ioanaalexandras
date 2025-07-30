@@ -1,3 +1,5 @@
+# 👋 Welcome to my GitHub Profile
+
 Here, you’ll find some of my best work in computer science and web development. 💪 I build full-stack web applications and enjoy working on new and interesting projects. I have skills and experience that help me be a strong member of any team. 🤝
 
 📚 I have a Bachelor's degree in Mathematics and Computer Science and I’m now studying for a Master's in Distributed Multimodal Virtual Environments at Ovidius University of Constanța. I work with technologies like C#, ASP.NET Core, JavaScript, SQL, HTML, and CSS. I always like to learn new things and keep up with the latest trends in software development. 🚀
